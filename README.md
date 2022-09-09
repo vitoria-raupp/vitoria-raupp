@@ -17,4 +17,4 @@
  
 </div>
 
-   ![Snake animation]
+![Snake animation] (https://github.com/vitoria-raupp/vitoria-raupp/blob/output/github-contribution-main.svg)
